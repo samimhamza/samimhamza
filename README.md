@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 <br/><br/>
 <div align="left">
  
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=chartreuse-dark)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=onedark&hide_border=true")
 </div>
