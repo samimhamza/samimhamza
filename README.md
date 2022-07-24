@@ -22,3 +22,6 @@ Here are some ideas to get you started:
     <a href="https://github-readme-streak-stats.herokuapp.com">
         <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=samimhamza&theme=onedark&hide_border=true"/>
     </a>
+
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=chartreuse-dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=chartreuse-dark)
+
