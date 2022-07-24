@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimhamza&label=Profile%20views&color=0e75b6&style=flat" alt="samimhamza" /> </p>
 
-<div align="center">
+<div align="left">
 
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=samimhamza&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
 </div>
-<div align="center">
+<div align="right">
  
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=chartreuse-dark)
 </div>
