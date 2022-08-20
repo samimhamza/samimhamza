@@ -19,5 +19,8 @@ Here are some ideas to get you started:
  <a href="https://github-readme-stats.vercel.app">
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=samimhamza&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
     </a>
+ <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true"/>
+    </a>
 
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=onedark&hide_border=true")
