@@ -23,4 +23,4 @@ Here are some ideas to get you started:
         <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true"/>
     </a>
 
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=onedark&hide_border=true")
+<!-- [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&layout=compact&theme=onedark&hide_border=true")](https://github-readme-stats.vercel.app/api/top-langs/?username=samimhamza&theme=onedark&hide_border=true") -->
