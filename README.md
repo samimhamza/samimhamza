@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=samimhamza&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### **AI Engineer & Senior Software Engineer**
+### **AI Engineer & Software Engineer**
 Building enterprise AI applications, robust backend microservices, and full-stack business platforms.
 
 📍 Jyväskylä, Finland  
